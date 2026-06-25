@@ -1,0 +1,4 @@
+Sentence,Sentiment,Confidence
+I am AI.,NEGATIVE,0.9996401071548462
+Movie is so bad.,NEGATIVE,0.9998036026954651
+Python is amazing.,POSITIVE,0.9998779296875
